@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working as a soccer coach, looking for newfound opportunities in tech.<br>- 📚 I'm currently mastering my knowledge in python, and focusing on updating my portfolio.<br>- ⚡ In my free time I like playing sports and video games. I also like going out and exploring nature.</p>
+<p align="left">- 🔭 I’m currently working as a soccer coach, looking for newfound opportunities in tech.<br>- 📚 I'm currently mastering my knowledge in python, and focusing on updating my portfolio.<br>- ⚡ In my free time I like playing sports and video games. I also like going out and touching some grass.</p>
 
 ###
 
