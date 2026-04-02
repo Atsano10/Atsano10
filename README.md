@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="left">🛠 Tech Arsenal</h3>
+<h3 align="center">🛠 Tech Arsenal</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">🔥 If you want to contact me, check out my website!</h3>
+<h3 align="center">🔥 If you want to contact me, check out my website!</h3>
 
 <div align="center">
   <a href="https://apostolos-eportfolio.vercel.app/" target="_blank">
