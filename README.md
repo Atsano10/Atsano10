@@ -2,6 +2,16 @@
   <img height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif"  />
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Atsano10.Atsano10&"  />
+</div>
+
+###
+
+<h1 align="center">Hi Im Apostolos</h1>
+
+###
+
 ###
 
 <div align="center">
@@ -17,16 +27,6 @@
     <img src="https://img.shields.io/static/v1?message=frosted_f1akes&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Atsano10.Atsano10&"  />
-</div>
-
-###
-
-<h1 align="center">Hi Im Apostolos</h1>
 
 ###
 
