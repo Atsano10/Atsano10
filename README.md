@@ -61,7 +61,9 @@
 ###
 
 <h3 align="left">🔥   If you want to contact me, check out by website!</h3>
-<button>https://apostolos-eportfolio.vercel.app/</button>
+<a href="https://apostolos-eportfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=View Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
+</a>
 ###
 
 
