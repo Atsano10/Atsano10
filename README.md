@@ -61,10 +61,14 @@
 
 ###
 
-<h3 align="left">🔥   If you want to contact me, check out by website!</h3>
-<a href="https://apostolos-eportfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=View Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
-</a>
+<h3 align="left">🔥 If you want to contact me, check out my website!</h3>
+
+<div align="left">
+  <a href="https://apostolos-eportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="portfolio badge" />
+  </a>
+</div>
+
 ###
 
 
