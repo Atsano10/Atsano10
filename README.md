@@ -15,10 +15,9 @@
 
 ### 👩‍💻 About Me
 
-I'm a soccer coach making my move into tech — currently sharpening my Python skills and building out my portfolio. My goal is to create tools that let people spend less time on repetitive work and more time on what actually matters. When I'm not coding or coaching, I'm gaming, playing sports, or outside touching some grass.
+Incoming Junior studying Computer Science — currently sharpening my Python skills and building out my portfolio. My goal is to create tools that let people spend less time on repetitive work and more time on what actually matters. When I'm not coding or in school, I'm gaming, playing sports, or outside touching some grass.
 
 - 🔭 Actively looking for opportunities in software engineering
-- 🐍 Currently deepening my Python skills
 - 📁 Expanding and polishing my portfolio
 - ⚡ Off-screen: soccer pitch, video games, and the occasional outdoor adventure
 
