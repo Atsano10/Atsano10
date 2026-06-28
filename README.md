@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/8-l6P7fT-FkAAAAC/cat-meme-cats.gif" height="120" alt="Cat Meme GIF" style="border-radius:12px" />
 
   ## Hey, I'm Apostolos 👋
-  **Aspiring Software Engineer · Code 2 Carreer X Basta Mentee **
+  **Aspiring Software Engineer · Code 2 Carreer X Basta Mentee**
 
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/apostolos-tsano-89818b2b8/)
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tolitsano18@gmail.com)
