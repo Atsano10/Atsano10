@@ -25,7 +25,7 @@
 
 ### `01 — WHOAMI` · who's behind the keyboard
 
-CS student at **The City College of New York** (class of '28), math minor. I try to create code that makes my life easier and hopefully yours too. Currently a **Code2Career × Google BASTA** mentee, sharpening data structures, algorithms, and interview chops. When im not on my computer you can find me hanging out with friends, hiking or doing multiple sports depending on the season.
+CS student at **The City College of New York**, math minor. I try to create code that makes my life easier and hopefully yours too. Currently a **Code2Career × Google BASTA** mentee, sharpening data structures, algorithms, and interview chops. When im not on my computer you can find me hanging out with friends, hiking or doing multiple sports depending on the season.
 
 ---
 
