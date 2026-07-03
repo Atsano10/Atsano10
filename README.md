@@ -3,7 +3,7 @@
 # Apostolos Tsano
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=808080&center=true&vCenter=true&width=560&lines=CS+%40+City+College+%C2%B7+class+of+%2728;i+build+the+tools+i+wish+already+existed;gamer+%2F%2F+hiker+%2F%2F+plays+every+sport" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=808080&center=true&vCenter=true&width=560&lines=CS+%40+City+College+%C2%B7+class+of+%2728;i+build+the+tools+i+wish+already+existed;gamer+%2F%2F+hiker+%2F%2F+sports" alt="tagline" />
 </a>
 
 <br/>
