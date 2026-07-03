@@ -36,19 +36,6 @@ The full, in-depth CV lives on my site &nbsp;-->&nbsp; **[apostolos-eportfolio.v
 
 ---
 
-### `$ ls ~/projects`
-
-**[SimplyIntern](https://github.com/Atsano10/SimplyIntern)** &nbsp;-->&nbsp; one place to find internships without refreshing 100 tabs. A daily pipeline pulls listings from 100+ company boards into a searchable feed, with a cloud-synced tracker so you never lose your spot.
-`TypeScript` · `Supabase` · `PostgreSQL` · `Vercel`
-
-**[SwingSight](https://github.com/Atsano10/SwingSight)** &nbsp;-->&nbsp; a Python scanner that watches a 21-ticker watchlist for swing-trade setups, backtests them against 5 months of history, and emails you when something lines up.
-`Python` · `FastAPI` · `React` · `SQLite`
-
-**[atsano_poker_bot](https://github.com/Atsano10/atsano_poker_bot)** &nbsp;-->&nbsp; a Texas Hold'em bot built for automated tournaments — a fun dive into game theory and decision-making under uncertainty.
-`Python`
-
----
-
 ### `$ cat stack.txt`
 
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=white)
