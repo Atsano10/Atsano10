@@ -23,7 +23,7 @@
 
 ---
 
-### `01 — WHOIAM` · who's behind the keyboard
+### `01 — WHOAMI` · who's behind the keyboard
 
 CS student at **The City College of New York** (class of '28), math minor. I turn *"someone should build this"* into things that actually ship. Currently a **Code2Career × Google BASTA** mentee, sharpening data structures, algorithms, and interview chops.
 
@@ -53,9 +53,11 @@ The full, in-depth CV lives on my site &nbsp;-->&nbsp; **[apostolos-eportfolio.v
 
 ### `03 — TELEMETRY` · the stats produced
 
-<img src="https://github-readme-stats.vercel.app/api?username=Atsano10&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=ffffff" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atsano10&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="165" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/Atsano10?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&label=FOLLOWERS" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Atsano10&style=flat-square&color=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/last-commit/Atsano10/SimplyIntern?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&label=LAST+SHIPPED" alt="Last commit" />
 
+<br/>
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Atsano10&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
@@ -67,6 +69,6 @@ The full, in-depth CV lives on my site &nbsp;-->&nbsp; **[apostolos-eportfolio.v
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Atsano10&style=flat-square&color=808080&label=PROFILE+VIEWS" alt="Profile views" />
+`> shipping velocity: accelerating` &nbsp;·&nbsp; `> terminal tabs open: infinity` &nbsp;·&nbsp; `> caffeine converts to commits`
 
 </div>
