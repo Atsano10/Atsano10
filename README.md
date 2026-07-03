@@ -25,9 +25,7 @@
 
 ### `01 — WHOAMI` · who's behind the keyboard
 
-CS student at **The City College of New York** (class of '28), math minor. I turn *"someone should build this"* into things that actually ship. Currently a **Code2Career × Google BASTA** mentee, sharpening data structures, algorithms, and interview chops.
-
-The full, in-depth CV lives on my site &nbsp;-->&nbsp; **[apostolos-eportfolio.vercel.app](https://apostolos-eportfolio.vercel.app)**
+CS student at **The City College of New York** (class of '28), math minor. I try to create code that makes my life easier and hopefully yours too. Currently a **Code2Career × Google BASTA** mentee, sharpening data structures, algorithms, and interview chops. When im not on my computer you can find me hanging out with friends, hiking or doing multiple sports depending on the season.
 
 ---
 
@@ -68,7 +66,5 @@ The full, in-depth CV lives on my site &nbsp;-->&nbsp; **[apostolos-eportfolio.v
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atsano10&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="Contribution telemetry" />
 
 <br/>
-
-`> shipping velocity: accelerating` &nbsp;·&nbsp; `> terminal tabs open: infinity` &nbsp;·&nbsp; `> caffeine converts to commits`
 
 </div>
