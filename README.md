@@ -58,6 +58,12 @@ CS student at **The City College of New York**, math minor. I try to create code
 <br/>
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api/?username=Atsano10&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true&count_private=true&custom_title=CAREER%20STATS&show_icons=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atsano10&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&langs_count=8&custom_title=LANGUAGE%20DISTRIBUTION" alt="Top languages" />
+
+<br/>
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=Atsano10&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak" />
 
 <br/>
